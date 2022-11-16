@@ -1,0 +1,21 @@
+#image-biography-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid;
+    width: 100%;
+    height: 60vh;
+    border-radius: 20px;
+    margin: 1vh 0 1vh 0;
+}
+.image-wrapper{
+    height: 45%;
+    width: 46%;
+    border: 2px solid;
+
+}
+.image-galery{
+    width: 100%;
+    height: 100%;
+}

@@ -1,6 +1,6 @@
 #header-page{
     width: 100%;
-    height: 30vh;
+    height: 20vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -9,6 +9,10 @@
     background-color: black;
     border-radius: 20px;
     margin: 1vh 0 1vh 0;
+}
+#image-header{
+    width: 20%;
+    height: 80%;
 }
 
 #navegation{
@@ -29,9 +33,11 @@
 #navegation .link:hover{
     color: black;
     background-color: white;
+    
+}
+#navegation li:hover{
     transform: scale(1.1) !important;
 }
-
 
 #navegation .link{
     text-decoration: none;
@@ -41,7 +47,3 @@
     width: 100%;
 }
 
-#header-page img{
-    width: 40%;
-    height: 80%;
-}
