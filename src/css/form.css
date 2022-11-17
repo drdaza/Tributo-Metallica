@@ -4,7 +4,11 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
+}
 
+#form-video-section{
+    background-color: black;
+    color: white;
 }
 
 .info-user{

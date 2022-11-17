@@ -8,14 +8,32 @@
     height: 60vh;
     border-radius: 20px;
     margin: 1vh 0 1vh 0;
+    background-color: white;
 }
 .image-wrapper{
     height: 45%;
     width: 46%;
     border: 2px solid;
-
+}
+.image-wrapper:hover{
+    transform: scale(1.05);
+    box-shadow:  0 0 3px 3px gray;
 }
 .image-galery{
     width: 100%;
     height: 100%;
+}
+#biography-group{
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+#biography-group p{
+    margin: 1vh 10%;
+    text-align: justify;
+    
 }
