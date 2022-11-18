@@ -25,3 +25,8 @@ footer{
 .fa-brands{
     margin: 5%;
 }
+
+.fa-brands:hover{
+    transform: translateY(-5px);
+    cursor: pointer;
+}
