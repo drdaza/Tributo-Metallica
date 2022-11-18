@@ -18,4 +18,6 @@ In this project we have been free for the page sctructure and we make trhee sect
 - Manu Estrada
 - David Daza
 
+## link GitPages
 
+https://drdaza.github.io/Tributo-Metallica/
