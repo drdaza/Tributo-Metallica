@@ -9,19 +9,14 @@
     margin: 1vh 0 1vh 0;
     background-color: white;
 }
-.image-wrapper{
-    height: 45%;
-    width: 46%;
-    border-radius: 20px;
-}
-.image-wrapper:hover{
+.image-galery:hover{
     transform: scale(1.05);
     box-shadow:  0 0 3px 3px gray;
     cursor: pointer;
 }
 .image-galery{
-    width: 100%;
-    height: 100%;
+    height: 45%;
+    width: 46%;
     border-radius: 20px;
 }
 #biography-group{
@@ -31,7 +26,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    
+    font-size: 1em;
+
 }
 #biography-group p{
     margin: 1vh 10%;
