@@ -1,0 +1,27 @@
+footer{
+    width: 100%;
+    height: 10vh;
+    display: flex;   
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+}
+
+#copyright{
+    width: 45%;
+    margin: 5%;
+}
+
+#social-media{
+    width: 45%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.fa-brands{
+    margin: 5%;
+}
